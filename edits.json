@@ -1,0 +1,37 @@
+{
+  "theme": {
+    "bg": "#f8f3ea",
+    "panel": "#fdfbf6",
+    "graphite": "#ede3d3",
+    "text": "#2b211a",
+    "muted": "#7d6f62",
+    "hairline": "#2b211a1f",
+    "accent": "#bf9a4a",
+    "accent2": "#a8853f",
+    "accent3": "#c9a86a",
+    "accent4": "#8f88c4",
+    "darkPanel": "#2b211a",
+    "extraCss": ".max-w-\\[1720px\\].border-y img{filter:grayscale(1) brightness(0) sepia(.35) !important;opacity:.6 !important}#top .overflow-hidden:has(video),#work .overflow-hidden:has(video),#work .overflow-hidden:has(img.object-cover),.overflow-hidden:has(> video),.overflow-hidden:has(> img.object-cover){--color-bone:#f8f3ea !important;--color-muted:#d9cdb9 !important;--color-hairline:#f8f3ea2e !important;--color-panel:#2b211a !important;--color-graphite:#3a2e25 !important;--color-bg:#1c1612 !important;color:#f8f3ea}.chip{color:color-mix(in srgb,var(--color-bone) 82%,transparent) !important;background:color-mix(in srgb,var(--color-bone) 4%,transparent) !important;border-color:var(--color-hairline) !important}.pill-outline{color:var(--color-bone) !important;border-color:color-mix(in srgb,var(--color-bone) 25%,transparent) !important}.pill-dark,.pill-light{color:var(--color-bg) !important;background:var(--color-bone) !important}.hairline{border-color:var(--color-hairline) !important}.bracket-frame{--bk-color:color-mix(in srgb,var(--color-bone) 55%,transparent) !important}.hairline-grid{background-image:linear-gradient(90deg,color-mix(in srgb,var(--color-bone) 7%,transparent) 1px,#0000 1px),linear-gradient(color-mix(in srgb,var(--color-bone) 7%,transparent) 1px,#0000 1px) !important}::selection{color:#fff}"
+  },
+  "text": [
+    {
+      "from": "primaryColor:\"f81342\",textColor:\"07080a\",backgroundColor:\"f4f2ec\"",
+      "to": "primaryColor:\"bf9a4a\",textColor:\"2b211a\",backgroundColor:\"fdfbf6\"",
+      "anywhere": true
+    },
+    {
+      "from": "the Onside set built by Lyve",
+      "to": "the More Nutrition set built by Lyve"
+    },
+    {
+      "from": "onside set · built by lyve",
+      "to": "more nutrition set · built by lyve"
+    }
+  ],
+  "assets": [
+    {
+      "from": "/services/onside-set.jpg",
+      "to": "/uploads/more-nutrition-set.jpg"
+    }
+  ]
+}
